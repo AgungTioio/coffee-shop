@@ -1,0 +1,94 @@
+:root {
+  --main-semi-dark: #502b0f;
+  --main-light: #724a24;
+  --secondary-dark: ;
+  --secondary-light: #b7966b;
+  --main-light: #d9c19d;
+  --light: #fbeed7;
+}
+
+.btn-brown {
+  color: #fff;
+  background-color: #2e1402;
+  border-color: #2e1402;
+  letter-spacing: 0.05em;
+  border-radius: 3px;
+  width: fit-content;
+  padding: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.btn-brown:hover,
+.btn-brown:active,
+.btn-brown:focus,
+.btn-brown.active {
+  background: #724a24;
+  color: #ffffff;
+  border-color: #724a24;
+}
+
+.dark-brown {
+  background-color: #2e1402;
+}
+
+.light-brown {
+  background-color: #724a24;
+}
+
+.light-brown-2 {
+  background-color: #946d43;
+}
+
+.text-brown {
+  background-color: #724a24;
+}
+
+.text-white {
+  color: white;
+}
+
+body {
+  font-family: "Dancing Script", cursive;
+  font-family: "Lato", sans-serif;
+  font-family: "Nanum Gothic", sans-serif;
+}
+
+div.card-body a {
+  text-decoration: none;
+}
+
+div.container {
+  margin-top: 11.3vh;
+}
+
+nav,
+div.container {
+  font-family: "Lato", sans-serif;
+}
+
+nav div a.navbar-brand {
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+}
+
+nav div button span {
+  border-radius: 5px;
+  color: #2e1402;
+}
+
+h1.text-center {
+  text-decoration: underline;
+}
+
+.about-img {
+  width: 25%;
+}
+
+footer {
+  font-family: "Lato", sans-serif;
+}
+
+/* kustom kursor */
+
+/* media query */
